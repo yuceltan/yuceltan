@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yüceltan Ebiri</h1>
 <h3 align="center">A passionate backend developer from Earth</h3>
 
+![giphy](https://user-images.githubusercontent.com/61293990/184265617-50dbcda6-9a2f-429a-90cc-6b672ea4e164.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuceltan&label=Profile%20views&color=0e75b6&style=flat" alt="yuceltan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuceltan" alt="yuceltan" /></a> </p>
