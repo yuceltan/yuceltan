@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yüceltan Ebiri</h1>
-<h3 align="center">A passionate backend developer from Earth</h3>
+<h3 align="center">A passionate backend developer from Earth Planet</h3>
 
 ![giphy](https://user-images.githubusercontent.com/61293990/184265617-50dbcda6-9a2f-429a-90cc-6b672ea4e164.gif)
 
