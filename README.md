@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuceltanebiri" target="blank"><img src="https://img.shields.io/twitter/follow/yuceltanebiri?logo=twitter&style=for-the-badge" alt="yuceltanebiri" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **AI(Python)**
 
 - 📫 How to reach me **yuceltanebiri@outlook.com**
 
