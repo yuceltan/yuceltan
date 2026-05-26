@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI(Python)**
 
-- 📫 How to reach me **yuceltanebiri@outlook.com**
+- 📫 How to reach me **linkedin.com/yuceltanebiri**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
